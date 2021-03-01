@@ -1,6 +1,6 @@
 {
   "name": "@vaddanak/project3",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "testing npm with git",
   "main": "myprogram.js",
   "scripts": {
