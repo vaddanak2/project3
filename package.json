@@ -1,0 +1,22 @@
+{
+  "name": "@vaddanak/project3",
+  "version": "1.0.0",
+  "description": "testing npm with git",
+  "main": "myprogram.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vaddanak2/project3.git"
+  },
+  "author": "VP Seng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vaddanak2/project3/issues"
+  },
+  "homepage": "https://github.com/vaddanak2/project3#readme",
+  "dependencies": {
+    "upper-case": "^2.0.2"
+  }
+}
